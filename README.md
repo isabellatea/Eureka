@@ -8,7 +8,7 @@ Feed your mind, 5 minutes at a time.
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
+    1. [Roadmap](#roadmap)
 1. [Team](#team)
 1. [Contributing](#contributing)
 
@@ -27,15 +27,14 @@ Feed your mind, 5 minutes at a time.
 
 > npm start
 
+> localhost: 8000
+
 > client/src/components: all components
 
 > client/src/actions, client/src/reducers, client/src/containers: redux related
 
 > backend: helper functions and server files
 
-
-### Browser
-> localhost: 8000
 
 ## Team
 
