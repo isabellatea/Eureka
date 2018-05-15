@@ -5,7 +5,6 @@ Feed your mind, 5 minutes at a time.
 ## Table of Contents
 
 1. [Screenshot](#screenshot)
-1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
     1. [Roadmap](#roadmap)
