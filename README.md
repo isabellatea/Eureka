@@ -4,7 +4,7 @@ Feed your mind, 5 minutes at a time.
 
 ## Table of Contents
 
-1. [Usage](#Usage)
+1. [Screenshot](#screenshot)
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
@@ -12,9 +12,9 @@ Feed your mind, 5 minutes at a time.
 1. [Team](#team)
 1. [Contributing](#contributing)
 
-## Usage
+## Screenshot
 
-> http://ec2-54-173-24-66.compute-1.amazonaws.com/
+![MindfeedHomepage](http://i67.tinypic.com/2hwd0cw.png)
 
 ## Development
 
