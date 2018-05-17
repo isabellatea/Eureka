@@ -5,7 +5,7 @@ import AccountBookmarks from './AccountBookmarks';
 import AccountCategories from './AccountCategories';
 import AccountInfo from './AccountInfo';
 import Connect from '../Connect';
-import './account.css';
+import './Account.css';
 import axios from 'axios';
 const TabPane = Tabs.TabPane;
 
