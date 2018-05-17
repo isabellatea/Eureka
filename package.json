@@ -4,8 +4,8 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "DEV_SERVER=true nodemon ./backend/server.js",
-    "server": "nodemon ./backend/server.js"
+    "dev": "DEV_SERVER=true nodemon ./backend/server.js",
+    "start": "node ./backend/server.js"
   },
   "babel": {
     "presets": [
