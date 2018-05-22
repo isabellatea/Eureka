@@ -2,7 +2,7 @@ import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 import axios from 'axios';
 import '../../css/style.css';
-import './accountstyle.css';
+import './account.css';
 import { Menu, Icon, Row, Col, Tabs, Select, message } from 'antd';
 const TabPane = Tabs.TabPane;
 const Option = Select.Option;
