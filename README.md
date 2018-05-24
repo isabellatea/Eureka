@@ -13,6 +13,8 @@ Feed your mind, 5 minutes at a time.
 
 ## Screenshot
 
+Link: https://mind-feed.herokuapp.com/
+
 ![MindfeedHomepage](http://i67.tinypic.com/2hwd0cw.png)
 
 ## Development
@@ -26,7 +28,7 @@ Feed your mind, 5 minutes at a time.
 
 > npm start
 
-> localhost: 8000
+> localhost: 3000
 
 > client/src/components: all components
 
