@@ -15,7 +15,7 @@ Feed your mind, 5 minutes at a time.
 
 Link: https://mind-feed.herokuapp.com/
 
-![MindfeedHomepage](http://i67.tinypic.com/2hwd0cw.png)
+![MindfeedHomepage](https://i.ibb.co/R4dfQ78/mf.jpg)
 
 ## Development
 
